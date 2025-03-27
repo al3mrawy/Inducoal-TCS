@@ -1,4 +1,3 @@
-
 def calculate_efficiency(power_input, core_mass, ambient_temp, target_temp=500):
     specific_heat = 0.46  # J/g°C
     mass_grams = core_mass * 1000
